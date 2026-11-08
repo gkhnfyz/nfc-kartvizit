@@ -35,6 +35,7 @@
 
 Tuma NFC Kartvizit için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
+- 📄 **Ürün sayfası:** [tumabilisim.com/urun/tuma-nfc-kartvizit](https://tumabilisim.com/urun/tuma-nfc-kartvizit)
 - 🌐 **Teklif formu:** [tumabilisim.com/iletisim](https://tumabilisim.com/iletisim?urun=Tuma%20NFC%20Kartvizit)
 - 💬 **WhatsApp:** [+90 533 432 15 12](https://wa.me/905334321512?text=Merhaba%2C%20Tuma%20NFC%20Kartvizit%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum.)
 - ✉️ **E-posta:** [info@tumabilisim.com](mailto:info@tumabilisim.com?subject=Tuma%20NFC%20Kartvizit%20hakk%C4%B1nda)
@@ -50,7 +51,7 @@ Tuma NFC Kartvizit için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
 **Tuma NFC Kartvizit** — Digital business card platform: tap an NFC card to share, one-tap vCard save, short link & QR, visit analytics, galleries, payment shortcuts and lead capture. Free and Pro plans.
 
-Live product: https://nfc.tumabilisim.com · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
+Live product: https://nfc.tumabilisim.com · Product page: https://tumabilisim.com/urun/tuma-nfc-kartvizit · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
 
 </details>
 
